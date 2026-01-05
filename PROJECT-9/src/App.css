@@ -1,0 +1,29 @@
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+h2{
+  font-size: 10px;
+}
+
+img{
+  width: 200px;
+  height: 150px;
+  align-items: center;
+}
+
+.product{
+  width: 200px;
+  height: 220px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.product:hover{
+  background-color: rgb(203, 153, 243);
+  box-shadow: 1px 1px 1px 1px black;
+}
