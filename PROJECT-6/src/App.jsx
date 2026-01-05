@@ -13,7 +13,7 @@ function App() {
     {mydata.map((value,index) => {
       return(
         <>
-        <li>{index+1}-{value}</li>
+        <li>{index+1}-{value}</li> 
         </>
       )
 
