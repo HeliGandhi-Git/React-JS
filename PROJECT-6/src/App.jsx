@@ -8,7 +8,7 @@ function App() {
 
   return ( 
   <>
-  {/* practice */}
+
     <h3>map function in react.</h3>
     {mydata.map((value,index) => {
       return(
@@ -21,7 +21,7 @@ function App() {
     )}
 
 
-{/* practice */}
+
 
 
 
